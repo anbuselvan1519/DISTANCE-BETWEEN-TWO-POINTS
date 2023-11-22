@@ -28,7 +28,3 @@ print(e)
 ![image](https://github.com/anbuselvan1519/DISTANCE-BETWEEN-TWO-POINTS/assets/139841744/94935c82-bb53-4764-9b79-a57a1cfc5cf5)
 ### RESULT:
 thus, program to calculate distance between two points is successfully completed.
-
-
-
-### RESULT:
